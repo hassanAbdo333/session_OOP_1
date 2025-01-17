@@ -39,8 +39,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T23:24:23.335Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -53,8 +52,7 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwBMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T00:45:16.994Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -64,7 +62,7 @@
               "RelativeDocumentMoniker": "Assignment\\Program.cs",
               "ToolTip": "D:\\Route\\oop\\CH_1\\session_01\\Assignment\\Program.cs",
               "RelativeToolTip": "Assignment\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T03:31:54.671Z",
               "EditorCaption": ""
@@ -79,8 +77,7 @@
               "RelativeToolTip": "damo_OOP_01\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA8wBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T00:21:50.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T00:21:50.012Z"
             }
           ]
         }
