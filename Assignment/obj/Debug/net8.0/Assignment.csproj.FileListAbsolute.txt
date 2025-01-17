@@ -1,0 +1,14 @@
+D:\Route\oop\CH_1\session_01\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\oop\CH_1\session_01\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+D:\Route\oop\CH_1\session_01\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+D:\Route\oop\CH_1\session_01\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+D:\Route\oop\CH_1\session_01\Assignment\bin\Debug\net8.0\Assignment.exe
+D:\Route\oop\CH_1\session_01\Assignment\bin\Debug\net8.0\Assignment.deps.json
+D:\Route\oop\CH_1\session_01\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+D:\Route\oop\CH_1\session_01\Assignment\bin\Debug\net8.0\Assignment.dll
+D:\Route\oop\CH_1\session_01\Assignment\bin\Debug\net8.0\Assignment.pdb
+D:\Route\oop\CH_1\session_01\Assignment\obj\Debug\net8.0\Assignment.dll
+D:\Route\oop\CH_1\session_01\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+D:\Route\oop\CH_1\session_01\Assignment\obj\Debug\net8.0\Assignment.pdb
+D:\Route\oop\CH_1\session_01\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+D:\Route\oop\CH_1\session_01\Assignment\obj\Debug\net8.0\ref\Assignment.dll

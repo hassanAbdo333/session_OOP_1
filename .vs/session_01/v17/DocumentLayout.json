@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route\\oop\\CH_1\\session_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C900A78-6630-44AC-8274-982011B2AECD}|Assignment\\Assignment.csproj|d:\\route\\oop\\ch_1\\session_01\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C900A78-6630-44AC-8274-982011B2AECD}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C900A78-6630-44AC-8274-982011B2AECD}|Assignment\\Assignment.csproj|d:\\route\\oop\\ch_1\\session_01\\assignment\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C900A78-6630-44AC-8274-982011B2AECD}|Assignment\\Assignment.csproj|solutionrelative:assignment\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C900A78-6630-44AC-8274-982011B2AECD}|Assignment\\Assignment.csproj|d:\\route\\oop\\ch_1\\session_01\\assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C900A78-6630-44AC-8274-982011B2AECD}|Assignment\\Assignment.csproj|solutionrelative:assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EB52E5-10EB-4B46-BD91-0653C4623586}|damo_OOP_01\\damo_OOP_01.csproj|d:\\route\\oop\\ch_1\\session_01\\damo_oop_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36EB52E5-10EB-4B46-BD91-0653C4623586}|damo_OOP_01\\damo_OOP_01.csproj|solutionrelative:damo_oop_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Route\\oop\\CH_1\\session_01\\Assignment\\Person.cs",
+              "RelativeDocumentMoniker": "Assignment\\Person.cs",
+              "ToolTip": "D:\\Route\\oop\\CH_1\\session_01\\Assignment\\Person.cs",
+              "RelativeToolTip": "Assignment\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:24:23.335Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "point.cs",
+              "DocumentMoniker": "D:\\Route\\oop\\CH_1\\session_01\\Assignment\\point.cs",
+              "RelativeDocumentMoniker": "Assignment\\point.cs",
+              "ToolTip": "D:\\Route\\oop\\CH_1\\session_01\\Assignment\\point.cs",
+              "RelativeToolTip": "Assignment\\point.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:45:16.994Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\oop\\CH_1\\session_01\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "D:\\Route\\oop\\CH_1\\session_01\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:31:54.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\oop\\CH_1\\session_01\\damo_OOP_01\\Program.cs",
+              "RelativeDocumentMoniker": "damo_OOP_01\\Program.cs",
+              "ToolTip": "D:\\Route\\oop\\CH_1\\session_01\\damo_OOP_01\\Program.cs",
+              "RelativeToolTip": "damo_OOP_01\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA8wBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:21:50.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
